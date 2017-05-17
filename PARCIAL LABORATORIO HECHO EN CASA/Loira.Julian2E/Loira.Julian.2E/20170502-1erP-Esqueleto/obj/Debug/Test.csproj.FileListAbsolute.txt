@@ -1,0 +1,36 @@
+C:\Users\alumno\Downloads\20170502-1erP-Esqueleto\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+E:\20170504 PP LabII\20170502-1erP-Esqueleto\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+E:\20170504 PP LabII\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+E:\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.pdb
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.dll
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.pdb
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.exe
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.pdb
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.pdb
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.dll
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.pdb
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.exe
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.pdb
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.exe
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.pdb
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.pdb
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.dll
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.pdb
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe.config
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.exe
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\20170502-1erP-Esqueleto.pdb
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.dll
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\bin\Debug\Entidades.pdb
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.exe
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\20170502-1erP-Esqueleto\obj\Debug\20170502-1erP-Esqueleto.pdb

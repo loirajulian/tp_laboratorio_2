@@ -1,0 +1,20 @@
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.dll
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.pdb
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.dll
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.pdb
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.dll
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.pdb
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.dll
+G:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.pdb
+D:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.dll
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.pdb
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.dll
+E:\Parcial laboratorio\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.pdb
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.dll
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\Entidades\bin\Debug\Entidades.pdb
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.dll
+G:\PARCIAL LABORATORIO HECHO EN CASA\Loira.Julian2E\Loira.Julian.2E\Entidades\obj\Debug\Entidades.pdb

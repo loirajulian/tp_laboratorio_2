@@ -22,26 +22,26 @@ namespace TP_Calculadora
             {
                 case "+":
                     return numero1.getNumero() + numero2.getNumero(); //Utilizo los get para traer el valor de numero
-                    break;
+                    
                 case "-":
                     return numero1.getNumero() - numero2.getNumero();
-                    break;
+                    
                 case "*":
                     return numero1.getNumero() * numero2.getNumero();
-                    break;
-                case "/":
-                    if (numero2.getNumero() == 0) //Condiciono que si el segundo numero es 0 el valor de retorno sea 0
-                    {
-                        return 0;
-                    }
-                    else
-                    {
-                        return numero1.getNumero() / numero2.getNumero();
-                    }
 
+                case "/":
+                    {
+                        if (numero2.getNumero() == 0) //Condiciono que si el segundo numero es 0 el valor de retorno sea 0
+                        {
+                            return 0;
+                        }
+                        else
+                        {
+                            return numero1.getNumero() / numero2.getNumero();
+                        }
+                    }
                 default: //Entiendo que no deberia entrar al default ya que los operadores del switch son las unicas opciones de eleccion en el combo box
-                    return 0;
-                    break;
+                    return 0;  
             }
         }
 
@@ -57,16 +57,16 @@ namespace TP_Calculadora
             {
                 case "-":
                     return "-";
-                    break;
+                   
                 case "*":
                     return "*";
-                    break;
+                    
                 case "/":
                     return "/";
-                    break;
+                    
                 default:
                     return "+";
-                    break;
+                   
             }
         }
     }
